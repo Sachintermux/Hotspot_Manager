@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102848780249",
+    "project_id": "bamboo-volt-328114",
+    "storage_bucket": "bamboo-volt-328114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102848780249:android:4a908cf06ee5c36395abc8",
+        "android_client_info": {
+          "package_name": "com.example.sna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102848780249-ad4ef70psk9v3s4diidnic28goc92epq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlHvQ-3CLvvpntJRtuHz46TRFYAWx4NB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102848780249-ad4ef70psk9v3s4diidnic28goc92epq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
